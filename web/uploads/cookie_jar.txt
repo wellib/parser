@@ -1,0 +1,1 @@
+[{"Name":"Utk_DvcGuid","Value":"5E9224D16146CD4FC97B60F8E13EC148","Domain":".utkonos.ru","Path":"\/","Max-Age":"469238714","Expires":2098472400,"Secure":false,"Discard":false,"HttpOnly":false},{"Name":"Utk_LncTime","Value":"2021-08-18+00%3A37%3A33","Domain":".utkonos.ru","Path":"\/","Max-Age":null,"Expires":null,"Secure":false,"Discard":false,"HttpOnly":false}]
